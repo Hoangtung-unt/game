@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1744629320 source:c:\c++\game\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	"map.h"
+	"camera.h"
+	"player.h"
+	"constants.h"
+
+1744617474 source:c:\c++\game\game.cpp
+
+1744618429 source:c:\c++\game\commonfunc.cpp
+
+1744628677 c:\c++\game\map.h
+	<SDL.h>
+	<vector>
+	<string>
+	<map>
+
+1744621827 source:c:\c++\game\camera.cpp
+	"camera.h"
+
+1744628677 source:c:\c++\game\map.cpp
+	"map.h"
+	<fstream>
+	<SDL_image.h>
+
+1744621826 c:\c++\game\camera.h
+	<SDL.h>
+
+1744647375 source:c:\c++\game\player.cpp
+	"player.h"
+	"map.h"
+
+1744629320 c:\c++\game\player.h
+	<SDL.h>
+	<SDL_image.h>
+	<string>
+	"constants.h"
+
+1744629298 c:\c++\game\constants.h
+
